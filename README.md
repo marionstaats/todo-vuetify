@@ -4,4 +4,4 @@
 - Vuetify
 - Firebase
 
-URL: https://marionstaats.github.io/todo-vuetify/
+URL: https://marionstaats.github.io/todo-vuetify/index
