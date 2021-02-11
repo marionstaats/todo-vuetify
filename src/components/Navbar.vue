@@ -40,7 +40,7 @@
             <v-row>
                 <v-col cols="12" align="center" class="mt-5">
                     <v-avatar size="100">
-                        <img src="/avataaars(1).png" />
+                        <img src="avataaars(1).png" />
                     </v-avatar>
                 </v-col>
                 <v-col cols="12" align="center">
@@ -82,8 +82,10 @@ export default {
                 { icon: 'mdi-folder', text: 'My Projects', route: '/projects' },
                 { icon: 'mdi-account', text: 'Team', route: '/team' }
             ],
-            snackbar: false
+            snackbar: false,
+            showWelcome: false
         }
     }
 }
 </script>
+
